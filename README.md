@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Zxayler/Zxayler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Zxayler, a wandering discord developer working at WeVibin, we are a team of developers who aim to give free services on servers by developing public bots which can ease and monitor the servers well.
 
-Here are some ideas to get you started:
+**We Have Done Multiple Projects..**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`WeVibin`: A Discord Bot which can manage welcomes, karaoke, and Auto Voice Channel Generator, and many more.
+
+`__WeVibin Love__`: A Discord bot which can manage and monitor Blind dates and confessions in your server. 
+
+`Slag!`: A Discord Bot which can handle Auto VC roles.
+
+We are aiming to develop more projects soon!!
+
+
+PS: My website is still on development, stay tuned!!
+
+https://zxaylerdev.me/
