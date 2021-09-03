@@ -6,7 +6,7 @@ I am Zxayler, a wandering discord developer working at WeVibin, we are a team of
 
 `WeVibin`: A Discord Bot which can manage welcomes, karaoke, and Auto Voice Channel Generator, and many more.
 
-`__WeVibin Love__`: A Discord bot which can manage and monitor Blind dates and confessions in your server. 
+`WeVibin Love`: A Discord bot which can manage and monitor Blind dates and confessions in your server. 
 
 `Slag!`: A Discord Bot which can handle Auto VC roles.
 
